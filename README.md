@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soham Sawant.</h1>
-<h3 align="center">A damn good Mobile Developer from Goa, India.</h3>
+<h3 align="center">A Mobile Developer from Goa, India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soham1sawant&label=Profile%20views&color=0e75b6&style=flat" alt="soham1sawant" /> </p>
 
